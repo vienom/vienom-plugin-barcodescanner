@@ -1,6 +1,9 @@
 # PhoneGap Plugin BarcodeScanner
 ================================
 
+## Vienom changes
+Android permissions due to conflict removed
+
 [![Build Status](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner.svg)](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner)
 
 Cross-platform BarcodeScanner for Cordova / PhoneGap.
